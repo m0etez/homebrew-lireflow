@@ -1,8 +1,8 @@
 cask "lireflow" do
-  version "1.1.0"
-  sha256 "5983b99de39ed5502e408c29d948bd092246c47c3af3ee530a0007908337fe94"
+  version "1.1"
+  sha256 "821d810db461ffc4049fb2a987bd8d5c122c849b6316d5f70292d3a69fd9c179"
 
-  url "https://github.com/m0etez/LireFlow/releases/download/v#{version}/LireFlow-v#{version}-fixed.dmg"
+  url "https://github.com/m0etez/LireFlow/releases/download/v#{version}/LireFlow-#{version}.dmg"
   name "LireFlow"
   desc "Modern, native macOS RSS reader built with SwiftUI"
   homepage "https://github.com/m0etez/LireFlow"
