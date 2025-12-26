@@ -1,6 +1,6 @@
 cask "lireflow" do
-  version "1.2"
-  sha256 "6adba09cae400e34efb5a919349eff5c89b780e9125c3974ddafe5d3ff663d6d"
+  version "1.2.1"
+  sha256 "61cc9587b03efc41f650763710fcef725db7246eed66f0ecee18c42062006d2e"
 
   url "https://github.com/m0etez/LireFlow/releases/download/v#{version}/LireFlow-#{version}.dmg"
   name "LireFlow"
